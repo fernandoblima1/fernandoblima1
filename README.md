@@ -13,6 +13,12 @@
 - 📫 Você pode me achar em fernando.borges@ufpi.edu.br
 - 😄 Pronomes: Ele/Dele 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoblima1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoblima1)](https://github.com/anuraghazra/github-readme-stats)
-layout compact
+<div style = >
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoblima1&show_icons=true&theme=radical)
+  
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoblima1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
