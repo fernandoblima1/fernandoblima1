@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**fernandoblima1/fernandoblima1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi everyone! My name is Luis Fernando 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently study on Federal University from Piauí (UFPI)
+- 🌱 I’m currently learning JavaScript and his API's
+- 📫 You can find me in: fernando.borges@ufpi.edu.br
+- 😄 Pronouns: He/His
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá todxs! Meu nome é Luis Fernando👋
+
+- 🔭 Atualmente eu curso Ciência da Computação na Universidade Federal do Piauí (UFPI)
+- 🌱 Estou aprendendo JavaScript e suas API's
+- 📫 Você pode me achar em fernando.borges@ufpi.edu.br
+- 😄 Pronomes: Ele/Dele 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoblima1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoblima1)](https://github.com/anuraghazra/github-readme-stats)
+layout compact
