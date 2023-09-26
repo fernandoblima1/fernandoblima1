@@ -1,15 +1,9 @@
-
-## Hi everyone! My name is Luis Fernando 👋
-
-- 🔭 I’m currently study on Federal University from Piauí (UFPI)
-- 🌱 I’m currently learning c and Java and his API's
-- 📫 You can find me on: fernando.borges@ufpi.edu.br
-- 
 ## Olá a todos! Meu nome é Luis Fernando👋
 
-- 🔭 Atualmente eu curso Ciência da Computação na Universidade Federal do Piauí (UFPI)
-- 🌱 Estou aprendendo C e Java e suas API's
-- 📫 Você pode me achar em fernando.borges@ufpi.edu.br
+- 💼 Trabalho como Analista de Sistema e Dev Backend na ETIPI (Empresa de Tecnologia da Informação do Piauí)
+- 🎓 Atualmente eu curso Ciência da Computação na Universidade Federal do Piauí (UFPI)
+- 🌱 Foco no domínio do Framework Spring (JPA, Security, Batch, Cloud, etc...)
+- 📫 Você pode me contatar em luisfborges2002@gmail.com
 
 <div style = >
   
